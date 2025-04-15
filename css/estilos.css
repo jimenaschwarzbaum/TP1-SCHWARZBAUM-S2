@@ -1,0 +1,32 @@
+img {
+    width: 50%;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+}
+
+h1,h2 {
+    color: rgb(37, 127, 169);
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h3 {
+    color: rgb(198, 61, 61);
+    text-decoration: underline;
+    text-align: left;
+}
+
+body {
+    color: black;
+    text-align: justify;
+}
+
+strong {
+    color: rgb(37, 127, 169);
+}
+
+em {
+    text-decoration: underline;
+    background-color: bisque;
+}
